@@ -9,7 +9,7 @@ int yRes            = 60;
 //float _decay		= .991;
 float _decay		= 0.98;
 int res             = 15;
-float heightMulti = 1;
+float heightMulti = 0.8;
 float xm = 0, ym = 0;
 float xp = 0, yp = 0, zp = 0;
 float xa = 0, ya = 0, za = 0;
